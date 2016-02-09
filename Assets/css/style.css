@@ -1,0 +1,142 @@
+html{
+	position: relative;
+	min-height: 100%
+}
+body{
+	color: #777777;
+	margin: 0 0 100px;
+}
+p,form,input{
+	text-align: left;
+}
+header{
+background: #ffffff; 
+border: 1px solid #cccccc;
+font-family: 'Georgia', Times, serif;
+margin-bottom: 40px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.name{
+	float:left;
+	background: #4aaaa5;
+	margin-left: 200px;
+	margin-top: -30px;
+	padding: 22px;
+	color: #ffffff;
+} 
+.nav{
+	float:right;
+	background: #ffffff;
+	color: black;
+	margin-right: 200px;
+	margin-top: -30px;
+	padding:22px;
+}
+#middle{
+	font-family: Arial, Helvetica, sans-serif;
+}
+#about{
+	margin-left: 200px;
+	float:left;
+	border-style: #dddddd;
+	width: 500px;
+}
+.connect{
+	width: 270px;
+	margin-right: 200px;
+	float: right;
+} 
+img{
+	float:left;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	width: 60px;
+	height:60px;
+} 
+.footer{
+	text-align: center;
+	border: 1px solid #666666;
+	border-top-color: #4aaaa5; 
+	border-top-width: 10px;
+	font-size: 18px;
+	color: #ffffff;
+	padding-top: 40px;
+	clear: both;
+	position:absolute;
+	left: 0;
+	bottom:0;
+	height: 80px;
+	width: 100%;
+	background: gray;
+}
+#hangman{
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+#rpggame{
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+#triviagame{
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+#rutgers{
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+#rock{
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+#l1{
+	border-style: 3px;
+}
+#l2{
+	border-style: 2px;
+}
+#l3{
+	border-style: 3px;
+}
+#l4{
+	border-style: 3px;
+}
+.connecth{
+	color: #4aaaa5;
+	font-weight: bolder;
+}
+#contact{
+	margin-left: 200px;
+	float:left;
+	border-style: #dddddd;
+	width: 500px;
+}
+.portfolio{
+	margin-left: 200px;
+	float:left;
+	border-style: #dddddd;
+	width: 500px;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow:hidden;
+}
+li{
+	float:right;
+}
+li a{
+	display: inline-block; 
+	color: gray;
+	text-decoration: none; 
+	padding: 14px 16px;
+	
+
+}
